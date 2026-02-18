@@ -5,7 +5,7 @@
 "A Multi-Objective Metaheuristic Approach for Generating Cell Type Marker Panels from Single-Cell Transcriptomics". Fernando M. Rodríguez-Bejarano, Sergio Santander-Jiménez, Miguel A. Vega-Rodríguez. Swarm and Evolutionary Computation, Volume 98, 102108, Elsevier, Amsterdam, Netherlands, 2025, pp. 1-21, ISSN: 2210-6502. DOI: [10.1016/j.swevo.2025.102108](https://doi.org/10.1016/j.swevo.2025.102108).
 
 ```bibtex
-@article{rodriguez25,
+@article{rodriguez25scmoctym,
   title={A multi-objective metaheuristic approach for generating cell type marker panels from single-cell transcriptomics},
   author={Rodr{\'\i}guez-Bejarano, Fernando M. and Santander-Jim{\'e}nez, Sergio and Vega-Rodr{\'\i}guez, Miguel A.},
   journal={Swarm and Evolutionary Computation},
@@ -28,3 +28,4 @@ The `data/` directory contains the datasets used in this project. See `data/READ
 ## Code
 
 The source code for scMOCTYM will be available on the `code/` directory once the projects funding this work are completed.
+
