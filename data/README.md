@@ -8,4 +8,4 @@ To generate the binarized gene expression matrices, the raw gene expression matr
 
 The method also requires the cell cluster assignments associated with each dataset (`cluster_<dataset>.tsv`), which can be downloaded from the same repository.
 
-All the credit for the original datasets, cluster annotations, and preprocessing pipelines goes to the **original authors** of that work.
+All the credit for the original datasets and cluster annotations goes to the original authors of that work.
